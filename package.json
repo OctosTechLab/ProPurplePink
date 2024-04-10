@@ -1,0 +1,39 @@
+{
+  "name": "theme-ProPurplePink",
+  "displayName": "ProPurplePink",
+  "description": "ProPurplePink - VScode - Extension",
+  "version": "0.0.5",
+  "publisher": "50l3r",
+  "engines": {
+    "vscode": "^1.44.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "homepage": "https://github.com/OctosTechLab/ProPurplePink/blob/main/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OctosTechLab/ProPurplePink/tree/main"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "ProPurplePink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ProPurplePink-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "d3f0233b-38fa-4d03-8c99-0a8b08a87a6d",
+    "publisherId": "c7fd86d5-b44c-42b3-992c-6bc9f0875c95",
+    "publisherDisplayName": "50l3r",
+    "targetPlatform": "undefined",
+    "isApplicationScoped": false,
+    "updated": false,
+    "isPreReleaseVersion": false,
+    "preRelease": false,
+    "installedTimestamp": 1664275030097
+  }
+}
