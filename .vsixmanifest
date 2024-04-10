@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="theme-paranoid" Version="0.0.5" Publisher="50l3r"/>
+    <Identity Language="en-US" Id="theme-ProPurplePink" Version="0.0.5" Publisher="50l3r"/>
     <DisplayName>ProPurplePink - VScode - Extension</DisplayName>
     <Description xml:space="preserve">ProPurplePink VSCode Theme</Description>
     <Tags>theme,ProPurplePink</Tags>
