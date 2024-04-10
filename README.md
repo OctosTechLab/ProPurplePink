@@ -14,4 +14,7 @@
   <br>Transparency level 220
   <br>
   <br><a href="https://marketplace.visualstudio.com/items?itemName=aladdin.aladdin-chewan-plugin">background lovely widgets</a>
+  <br>
+  <br>or
+  <br><a href="https://marketplace.visualstudio.com/items?itemName=illixion.vscode-vibrancy-continued">Vibrancy Continued</a>
 </p>
