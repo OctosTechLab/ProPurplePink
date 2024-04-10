@@ -1,1 +1,1 @@
-<p align="center"><a href="https://wieske-cv.nl"><img width="80%" alt="Hello, I'm Wieske. I do open source!" src="./wies.png" /></a></p>
+<p align="center"><a href="#"><img width="80%" alt="ProPurplePink" src="images/icon.png" /></a></p>
