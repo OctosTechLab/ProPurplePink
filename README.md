@@ -2,7 +2,7 @@
 
 <p align="center"><a href="#"><img width="30%" alt="ProPurplePink" src="images/icon.png" /></a></p>
 
-<p align="center"><img width="30%" src="images/html.png" /> <img width="30%" src="images/js.png" /> <img width="30%" src="images/scss.png" /></p>
+<p align="center"><img width="30%" src="images/html.png" /> &nbsp; <img width="30%" src="images/js.png" /> &nbsp; <img width="30%" src="images/scss.png" /></p>
 
 
 #
