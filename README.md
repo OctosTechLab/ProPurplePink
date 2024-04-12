@@ -5,8 +5,9 @@
 <p align="center"><img width="30%" src="images/html.png" /> &nbsp; <img width="30%" src="images/js.png" /> &nbsp; <img width="30%" src="images/scss.png" /></p>
 
 # Installation process
+<p>
 C:\Users\%username%\.vscode\extensions
-
+</p>
 
 #
 <p>
